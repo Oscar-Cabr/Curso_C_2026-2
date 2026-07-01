@@ -1,7 +1,13 @@
 int main() {
-  // Variables - Contenedores
-  // <tipo de dato> <identificador>;
-  
+  /* Variables - Contenedores
+    Sintaxis para declara una variable:
+      <tipo de dato> <identificador>;
+    Sintaxis para inicializar una variable:
+      <tipo de dato> <id> = <valor>;
+    Sintaxis para asignar un valor a una variable:
+      <id> = <valor>;
+  */
+
   /*
     Identificar entradas:
     1. Es un número.
